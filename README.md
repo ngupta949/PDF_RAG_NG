@@ -19,7 +19,7 @@ This application is a Retrieval-Augmented Generation (RAG) system that allows us
 
 ![PDF Upload](Model.png)
 
-## Model Used : llama2:latest
+## Pdf file Uploaded while Model Used : llama2:latest
 
 ![PDF Upload](SamplePdfUploaded.png)
 
