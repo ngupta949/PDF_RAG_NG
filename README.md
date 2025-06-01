@@ -21,11 +21,15 @@ This application is a Retrieval-Augmented Generation (RAG) system that allows us
 
 ## Model Used : Mistral
 
-![PDF Upload](MistralResponse.png)
+![PDF Upload](SamplePdfUploaded.png)
 
-## Model Used : tinyllama
+## Model Used : llama2:latest
 
-![Question Answering](Question&Answer.png)
+![Question Answering](Llama2Response-while-answer-inprogress.png)
+
+and after getting the response processed
+
+![Question Answering](Llama2Response-after-answer.png)
 
 ## Features
 
